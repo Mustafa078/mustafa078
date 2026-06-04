@@ -1,4 +1,4 @@
-Readme · MDCopyHi, I'm Muhammad Faizan Mustafa 👋
+Hi, I'm Muhammad Faizan Mustafa 👋
 I'm a Software Engineering student based in Pakistan, currently in my 2nd semester.
 I'm drawn to AI, cybersecurity, and the ethics around both — basically the parts of tech that actually matter.
 
