@@ -27,8 +27,7 @@ I'm drawn to **AI**, **cybersecurity**, and the ethics around both — basically
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Add your LinkedIn URL here]
-- Email: [Add your email if you want]
+- Email: m.faizan12397@gmail.com
 
 ---
 
