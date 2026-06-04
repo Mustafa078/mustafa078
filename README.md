@@ -1,24 +1,38 @@
-Hi, I'm Muhammad Faizan Mustafa 👋
-I'm a Software Engineering student based in Pakistan, currently in my 2nd semester.
-I'm drawn to AI, cybersecurity, and the ethics around both — basically the parts of tech that actually matter.
+# Hi, I'm Muhammad Faizan Mustafa 👋
 
-🛠️ What I've Built
-ProjectDescriptionStackOTP Verification SystemPhone number verification with SMS deliveryC++, Twilio APIRotateXRotating proxy system with multiple strategies and a web dashboardPythonInteractive Periodic TablePrintable, interactive periodic table with all 118 elementsHTML, CSSBSV Trading StrategyMulti-indicator crypto trading strategy with backtestingPine Script v5AI Auto ClickerAttempted vision-based auto clicker — failed, learned a lotHTML, JS
+I'm a Software Engineering student based in Pakistan, currently in my 2nd semester.  
+I'm drawn to **AI**, **cybersecurity**, and the ethics around both — basically the parts of tech that actually matter.
 
-🧠 What I'm Learning
+---
 
-Languages: C++, Python, HTML/CSS, JavaScript
-Interests: AI systems, cybersecurity, API integrations, automation
-Currently exploring: How AI should (and shouldn't) be built
+## 🛠️ What I've Built
 
+| Project | Description | Stack |
+|---|---|---|
+| [OTP Verification System](#) | Phone number verification with SMS delivery | C++, Twilio API |
+| [RotateX](#) | Rotating proxy system with multiple strategies and a web dashboard | Python |
+| [Interactive Periodic Table](#) | Printable, interactive periodic table with all 118 elements | HTML, CSS |
+| [BSV Trading Strategy](#) | Multi-indicator crypto trading strategy with backtesting | Pine Script v5 |
+| [AI Auto Clicker](#) | Attempted vision-based auto clicker — failed, learned a lot | HTML, JS |
 
-📫 Let's Connect
+---
 
-Email: m.faizan12397@gmail.com
+## 🧠 What I'm Learning
 
+- **Languages:** C++, Python, HTML/CSS, JavaScript
+- **Interests:** AI systems, cybersecurity, API integrations, automation
+- **Currently exploring:** How AI should (and shouldn't) be built
 
-_"The best way to learn is to build something that breaks."_
+---
 
+## 📫 Let's Connect
+
+- LinkedIn: [Add your LinkedIn URL here]
+- Email: [Add your email if you want]
+
+---
+
+*"The best way to learn is to build something that breaks."*
 <!--
 **Mustafa078/mustafa078** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
