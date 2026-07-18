@@ -9,7 +9,7 @@ I'm drawn to **AI**, **cybersecurity**, and the ethics around both — basically
 |---|---|---|
 | [Frontend Developer Portfolio](https://mustafa078.github.io/muhammad-portfolio/) | Responsive portfolio landing page built from a design mockup — Flexbox nav/hero, CSS Grid sections, media queries | HTML, CSS |
 | [Crypto Trading Journal](https://mustafa078.github.io/trading-journal/) | Full-featured trade logging app — P&L tracking, emotion/mistake tagging, 8 Chart.js analytics charts, JSON export/import | JavaScript, Chart.js, localStorage |
-| [Chemistry Explorer](#) | 10-module interactive chemistry reference site — periodic table, ionization energy, electronegativity, and more | HTML, CSS, JS, Chart.js |
+| [Chemistry Explorer](https://mustafa078.github.io/chemistry-explorer/) | 10-module interactive chemistry reference site — periodic table, ionization energy, electronegativity, and more | HTML, CSS, JS, Chart.js |
 | [Personal Portfolio](#) | Dark-themed personal site with Flexbox/Grid layout, project showcase, and contact section | HTML, CSS |
 | [OTP Verification System](#) | Phone number verification with SMS delivery | C++, Twilio API |
 | [RotateX](#) | Rotating proxy system with multiple strategies and a web dashboard | Python |
