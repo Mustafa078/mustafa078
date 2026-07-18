@@ -1,17 +1,49 @@
 # Hi, I'm Muhammad Faizan Mustafa 👋
 
-I'm a Software Engineering student based in Pakistan, currently in my 2nd semester.  
+I'm a Software Engineering student based in Pakistan, currently in my 2nd semester, and a MERN Stack Development trainee at Dproxylogos.
 I'm drawn to **AI**, **cybersecurity**, and the ethics around both — basically the parts of tech that actually matter.
 
----
+..:...:......
+                     ....:. ....... .......
+                    ........   .. .. .. ....
+                    .   ......  .. ..  .  . .
+                   ...     . ..   .         ..
+                  .. ...                     ..
+                  ...                        ..
+                  ...    .......  ..:::...   ..
+                  .    .-===+++=--=++*++===. ...
+                  .  ..-++++*************++-  .
+                  ....:=+++*************+++=. .
+                  ...:-=+++*************+++=..
+                :-...-===-----=+******+++=++:.
+               .=+=:.==-::::..::=+*+=:....:=--.
+               .=+==:===-::..::-=**=::..::---+-
+                +===-++++=======+#*=--::-:-+=+:
+                -+==:++*******++*#*++*++++++=+
+                .++=.=+******+*+*##****#***++-
+                 :-:.-+++++++=--=++=+++***+=*.
+                    .:-=+-:::::.....:-:-++-::
+                     .::=::---==-----:.:=-.
+                    :. .:.:=+=========::-.
+                    --. ...:--=:::-==:...
+                 .. -=-:.   .::-:::::
+                ..::-==--.    .....  ::
+             .... ::-====--:..     .-=:
+        ......... .::-=====-----:---==.:
+  ....:........... :::--====-------==- :.:.
+
+  ---
 
 ## 🛠️ What I've Built
 
 | Project | Description | Stack |
 |---|---|---|
+| [Frontend Developer Portfolio](https://mustafa078.github.io/muhammad-portfolio/) | Responsive portfolio landing page built from a design mockup — Flexbox nav/hero, CSS Grid sections, media queries | HTML, CSS |
+| [Crypto Trading Journal](https://mustafa078.github.io/trading-journal/) | Full-featured trade logging app — P&L tracking, emotion/mistake tagging, 8 Chart.js analytics charts, JSON export/import | JavaScript, Chart.js, localStorage |
+| [Chemistry Explorer](#) | 10-module interactive chemistry reference site — periodic table, ionization energy, electronegativity, and more | HTML, CSS, JS, Chart.js |
+| [Personal Portfolio](#) | Dark-themed personal site with Flexbox/Grid layout, project showcase, and contact section | HTML, CSS |
 | [OTP Verification System](#) | Phone number verification with SMS delivery | C++, Twilio API |
 | [RotateX](#) | Rotating proxy system with multiple strategies and a web dashboard | Python |
-| [Interactive Periodic Table](#) | Printable, interactive periodic table with all 118 elements | HTML, CSS |
 | [BSV Trading Strategy](#) | Multi-indicator crypto trading strategy with backtesting | Pine Script v5 |
 | [AI Auto Clicker](#) | Attempted vision-based auto clicker — failed, learned a lot | HTML, JS |
 
@@ -19,7 +51,8 @@ I'm drawn to **AI**, **cybersecurity**, and the ethics around both — basically
 
 ## 🧠 What I'm Learning
 
-- **Languages:** C++, Python, HTML/CSS, JavaScript
+- **Currently:** MERN stack (HTML, CSS, JavaScript, React, Node.js) via Dproxylogos bootcamp
+- **Languages:** C++, Python, JavaScript, HTML/CSS
 - **Interests:** AI systems, cybersecurity, API integrations, automation
 - **Currently exploring:** How AI should (and shouldn't) be built
 
@@ -28,7 +61,8 @@ I'm drawn to **AI**, **cybersecurity**, and the ethics around both — basically
 ## 📫 Let's Connect
 
 - Email: m.faizan12397@gmail.com
-- linkedln: www.linkedin.com/in/mustafa078
+- LinkedIn: [www.linkedin.com/in/mustafa078](https://www.linkedin.com/in/mustafa078)
+- GitHub: [@mustafa078](https://github.com/mustafa078)
 
 ---
 
